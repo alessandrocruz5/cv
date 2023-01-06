@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+body {
+    font-family: Lato;
+    margin: auto;
+}
+
+.header-container {
+    display: flex;
+    margin: 5rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-container {
+    padding-right: 2rem;
+}
+
+.profile-container {
+    padding-left: 2rem;
+}
+
+img {
+    width: 9rem;
+    height: 9rem;
+    border-radius: 100%;
+}
